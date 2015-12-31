@@ -15,7 +15,7 @@ This is a Java wrapper for the great [CS Research Topic Generator](https://www.c
 In your build.gradle file:
 
     dependencies {
-        compile 'com.anonsage:cs-topic-generator:1.0.0'
+        compile 'com.anonsage:cs-topic-generator:1.1.0'
     }
 
 In your Java or Android file:
