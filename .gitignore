@@ -1,6 +1,8 @@
 
 *.class
-/out/
+.gradle/
+out/
+build/
 
 # JetBrain / IntelliJ
 .idea/

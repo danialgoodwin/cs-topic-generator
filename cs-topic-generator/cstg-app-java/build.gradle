@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+//sourceCompatibility = 1.5
+
+repositories {
+    jcenter()
+//    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.11'
+    compile 'com.anonsage:cs-topic-generator:1.0.0'
+}
