@@ -8,8 +8,6 @@ This is a Java wrapper for the great [CS Research Topic Generator](https://www.c
 >
 > Good news for the CS community: the problem has at last been solved.
 
-The main library is contained in a single file: [CsTopicGenerator.java](https://github.com/danialgoodwin/cs-topic-generator/blob/master/cs-topic-generator/cs-topic-generator/src/main/java/com/anonsage/CsTopicGenerator.java)
-
 
 
 ## Usage
@@ -24,6 +22,13 @@ In your Java or Android file:
 
     CsTopicGenerator generator = new CsTopicGenerator();
     String topic = generator.getTopic(); // Generates a random topic each call.
+
+
+
+## Contributing
+Pull-requests welcomed. This is great project to get experience contributing to open source.
+
+The library is contained in a single file: [CsTopicGenerator.java](https://github.com/danialgoodwin/cs-topic-generator/blob/master/cs-topic-generator/cs-topic-generator/src/main/java/com/anonsage/CsTopicGenerator.java)
 
 
 

@@ -43,6 +43,7 @@ public class CsTopicGenerator {
         adverbs.add("reliable");
         adverbs.add("open");
         adverbs.add("coordinated");
+        adverbs.add("artificial");
 
         adjectives.add("mobility");
         adjectives.add("functional");
@@ -64,6 +65,7 @@ public class CsTopicGenerator {
         adjectives.add("cloud-based");
         adjectives.add("big-data");
         adjectives.add("bioinformatic");
+        adjectives.add("artificial");
 
         nouns.add("network");
         nouns.add("preprocessor");
@@ -86,6 +88,7 @@ public class CsTopicGenerator {
         nouns.add("network");
         nouns.add("data center");
         nouns.add("hypervisor");
+        nouns.add("intelligence");
 
         phraseConnectives.add("for");
         phraseConnectives.add("related to");
