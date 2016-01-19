@@ -23,6 +23,11 @@ In your Java or Android file:
     CsTopicGenerator generator = new CsTopicGenerator();
     String topic = generator.getTopic(); // Generates a random topic each call.
 
+Example generated ideas:
+
+- `A parallel object-oriented network for a scalable bioinformatic data center`
+- `A parameterized knowledge-based compiler derived from an active big-data system`
+
 
 
 ## Contributing
